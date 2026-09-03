@@ -1,0 +1,102 @@
+ID	Molecule
+------------------------------
+001	Acetaldehyde
+002	Acetic Acid
+003	Allene
+004	B2H6
+005	Be
+006	BeF2
+007	BF
+008	BF3
+009	BH
+010	BH3
+011	BHF2
+012	C2H2
+013	C2H3F
+014	C2H4
+015	C2H5F
+016	C2H6
+017	CF4
+018	CH2F2
+019	CH2NH
+020	CH3F
+021	CH3NH2
+022	CH4
+023	CO
+024	CO2
+025	Dioxirane
+026	Ethanol
+027	F2
+028	F2CO
+029	FCCF
+030	Formic Acid
+031	Glyoxal
+032	H2
+033	H2CO
+034	H2O
+035	HCCF
+036	HCN
+037	HCNO
+038	HCOF
+039	HF
+040	HNC
+041	HNCO
+042	HNNN
+043	HNO
+044	HOCN
+045	HOF
+046	HONC
+047	HOOH
+048	Ketene
+049	Methanol
+050	N2
+051	N2H4
+052	N2O
+053	NCCN
+054	NH3
+055	Oxirane
+056	Oxirene
+057	Propane
+058	Propene
+059	Propyne
+060	acetone
+061	acetonitrile
+062	acrylonitrile
+063	ammonia borane
+064	azomethane
+065	benzene
+066	beryllium hydride
+067	beryllium oxide
+068	borazine
+069	boric acid
+070	carbonic acid
+071	cyanamide
+072	cyclobutane
+073	cyclopentadiene
+074	cyclopropane
+075	dimethyl ether
+076	ethylene glycol
+077	fluoroform
+078	formamide
+079	furan
+080	glycine
+081	helium
+082	hydroxylamine
+083	lithium borohydride
+084	lithium hydride
+085	lithium nitrate
+086	lithium oxide
+087	methyl formate
+088	neon
+089	nitric acid
+090	nitrogen trifluoride
+091	nitromethane
+092	nitrosonium
+093	pyridine
+094	pyrrole
+095	triaminoborane
+096	trifluoromethanol
+097	trimethylamine
+098	trimethylborane
+099	urea
+100	zundel cation
