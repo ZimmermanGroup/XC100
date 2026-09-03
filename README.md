@@ -1,2 +1,45 @@
 # XC100
-Wavefunction-derived exchange-correlation energy dataset for 100 atomic and molecular species.
+
+XC100 is a dataset of 100 atomic and molecular systems containing wavefunction-derived exchange-correlation energies for the development and benchmarking of density functional approximations.
+
+This repository accompanies ongoing work from the Zimmerman Group at the University of Michigan.
+
+## Repository contents
+
+* **`XC100_dataset.csv`** — XC100 exchange-correlation dataset for systems 001–100.
+* **`molecule_mapping.txt`** — mapping between the numerical system IDs and molecular/species names.
+* **`XC100_structures.zip`** — molecular geometries for all 100 systems in XYZ format.
+
+## Dataset columns
+
+| Column                    | Description                                                             |
+| ------------------------- | ----------------------------------------------------------------------- |
+| `System`                  | Three-digit XC100 system identifier                                     |
+| `Exc_TZ`                  | Exchange-correlation energy at the cc-pVTZ level                        |
+| `TZ_correlation`          | cc-pVTZ correlation energy                                              |
+| `QZ_correlation`          | cc-pVQZ correlation energy                                              |
+| `CTZ_correlation`         | cc-pCVTZ correlation energy                                             |
+| `delta_Riemann_QZ_to_CBS` | Riemann-extrapolated correction from QZ to the complete-basis-set limit |
+| `Exc_comp`                | Final composite exchange-correlation energy                             |
+| `Ex_TZ`                   | Exchange energy obtained from the cc-pVTZ inversion                     |
+
+All energies are reported in Hartree.
+
+The `Exc_comp` values correspond to the final composite, Riemann-corrected exchange-correlation energies.
+
+## Structures and system IDs
+
+Structures are provided as individual XYZ files named according to the XC100 system identifier:
+
+```text
+001.xyz
+002.xyz
+...
+100.xyz
+```
+
+The corresponding species names are provided in `molecule_mapping.txt`.
+
+## Citation
+
+A citation to the associated manuscript/preprint will be added upon public release of the repository.
