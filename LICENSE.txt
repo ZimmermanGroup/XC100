@@ -1,0 +1,43 @@
+XC100 DATASET LICENSE
+
+Dataset: XC100
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+1. LICENSE
+
+Unless otherwise noted, the data and dataset documentation in this repository are made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Under CC BY 4.0, you may copy, redistribute, use, and adapt the licensed material for any purpose, including commercial purposes, provided that you comply with the attribution and other conditions of the license.
+
+2. ATTRIBUTION AND CITATION
+
+CC BY 4.0 requires appropriate credit to the creators of the licensed material.
+
+For scholarly, scientific, or other public use of XC100, including publications, presentations, benchmarks, machine-learning models, software, and derivative datasets, please provide attribution by citing the XC100 publication and, where practicable, the dataset repository.
+
+Preferred citation:
+
+[REPLACE WITH FINAL XC100 PAPER CITATION AND DOI/ARXIV IDENTIFIER]
+
+Dataset repository:
+
+https://github.com/ZimmermanGroup/XC100
+
+If you redistribute or adapt the dataset, you must also identify that the material is licensed under CC BY 4.0, provide a link to the license, and indicate whether changes were made, as required by CC BY 4.0.
+
+3. NO ENDORSEMENT
+
+Attribution or citation does not imply endorsement by the XC100 authors, contributors, their research group, or their affiliated institutions.
+
+4. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+The XC100 dataset is provided on an "as is" and "as available" basis, without representations or warranties of any kind, including warranties concerning accuracy, completeness, fitness for a particular purpose, non-infringement, or the absence of errors.
+
+To the fullest extent permitted by applicable law, the licensors, authors, contributors, and distributors of XC100 will not be liable for any loss, damage, cost, or claim arising from use of, reliance on, modification of, or redistribution of the dataset.
+
+The legally controlling warranty disclaimer and limitation of liability are those set out in Section 5 of the Creative Commons Attribution 4.0 International License.
+
+5. SCOPE
+
+This notice applies to the XC100 dataset and dataset documentation unless a file is explicitly marked otherwise. Third-party material, if any, remains subject to its own applicable terms.
