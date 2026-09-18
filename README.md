@@ -45,13 +45,6 @@ The corresponding species names are provided in `molecule_mapping.txt`.
 
 The CI-derived Kohn–Sham AO density matrix for each XC100 system is provided in the cc-pVTZ basis. Each numbered subdirectory corresponds to the matching XC100 system identifier and contains a `Paoks` file.
 
-The matrices use real spherical harmonic atomic orbitals. Within each angular-momentum shell, the basis functions are ordered by increasing \(m\) index, from \(m=-l\) to \(m=+l\):
-
-* `s`: \(m = 0\)
-* `p`: \(m = -1, 0, +1\)
-* `d`: \(m = -2, -1, 0, +1, +2\)
-* `f`: \(m = -3, -2, -1, 0, +1, +2, +3\)
-
 ## Citation
 
 A citation to the associated manuscript/preprint will be added upon public release of the repository.
