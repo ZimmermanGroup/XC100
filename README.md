@@ -9,6 +9,7 @@ This repository accompanies ongoing work from the Zimmerman Group at the Univers
 * **`XC100_dataset.csv`** — XC100 exchange-correlation dataset for systems 001–100.
 * **`molecule_mapping.txt`** — mapping between the numerical system IDs and molecular/species names.
 * **`XC100_structures.zip`** — molecular geometries for all 100 systems in XYZ format.
+* **`CI_derived_KS_AO_density_matrices/`** — CI-derived Kohn–Sham AO density matrices in the cc-pVTZ basis for systems 001–100.
 
 ## Dataset columns
 
@@ -39,6 +40,17 @@ Structures are provided as individual XYZ files named according to the XC100 sys
 ```
 
 The corresponding species names are provided in `molecule_mapping.txt`.
+
+## CI-derived Kohn–Sham AO density matrices
+
+The CI-derived Kohn–Sham AO density matrix for each XC100 system is provided in the cc-pVTZ basis. Each numbered subdirectory corresponds to the matching XC100 system identifier and contains a `Paoks` file.
+
+The matrices use real spherical harmonic atomic orbitals. Within each angular-momentum shell, the basis functions are ordered by increasing \(m\) index, from \(m=-l\) to \(m=+l\):
+
+* `s`: \(m = 0\)
+* `p`: \(m = -1, 0, +1\)
+* `d`: \(m = -2, -1, 0, +1, +2\)
+* `f`: \(m = -3, -2, -1, 0, +1, +2, +3\)
 
 ## Citation
 
