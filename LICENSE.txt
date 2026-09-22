@@ -18,7 +18,10 @@ For scholarly, scientific, or other public use of XC100, including publications,
 
 Preferred citation:
 
-[REPLACE WITH FINAL XC100 PAPER CITATION AND DOI/ARXIV IDENTIFIER]
+Vaibhav Khanna and Paul M. Zimmerman,
+“XC100: A Wavefunction-Derived Exchange-Correlation Energy Dataset for Atomic and Molecular Species,”
+arXiv:2609.22490 [physics.chem-ph] (2026).
+https://arxiv.org/abs/2609.22490
 
 Dataset repository:
 
