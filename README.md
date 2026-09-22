@@ -47,4 +47,19 @@ The CI-derived Kohn–Sham one-particle reduced density matrix (1-RDM) for each 
 
 ## Citation
 
-A citation to the associated manuscript/preprint will be added upon public release of the repository.
+If you use the XC100 dataset in your research, please cite:
+
+> Vaibhav Khanna and Paul M. Zimmerman,  
+> *XC100: A Wavefunction-Derived Exchange-Correlation Energy Dataset for Atomic and Molecular Species*,  
+> arXiv:2609.22490 [physics.chem-ph] (2026).
+
+```bibtex
+@misc{khanna2026xc100wavefunctionderivedexchangecorrelationenergy,
+      title={XC100: A Wavefunction-Derived Exchange-Correlation Energy Dataset for Atomic and Molecular Species},
+      author={Vaibhav Khanna and Paul M. Zimmerman},
+      year={2026},
+      eprint={2609.22490},
+      archivePrefix={arXiv},
+      primaryClass={physics.chem-ph},
+      url={https://arxiv.org/abs/2609.22490},
+}
