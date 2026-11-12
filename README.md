@@ -45,6 +45,8 @@ The corresponding species names are provided in `molecule_mapping.txt`.
 
 The CI-derived Kohn–Sham one-particle reduced density matrix (1-RDM) for each XC100 system is provided in the cc-pVTZ AO basis. Each numbered subdirectory corresponds to the matching XC100 system identifier and contains a `Paoks` file.
 
+Some `Paoks` files contain a zero-based row index in the first column, which is not part of the density matrix and should be ignored when reading the matrix elements.
+
 ## Citation
 
 If you use the XC100 dataset in your research, please cite:
